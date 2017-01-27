@@ -1,0 +1,6 @@
+/dist/
+/.cask/
+
+*.elc
+*-pkg.el
+*-autoloads.el
